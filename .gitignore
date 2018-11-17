@@ -2,6 +2,7 @@
 *.o
 # eine bestimmte Datei, z.B. ein Executable
 #statistics
+uebung01/login.txt
 # Sicherungskopien, die auf ~ enden
 *~
 # das Unterverzeichnis build/ (von CMake)
