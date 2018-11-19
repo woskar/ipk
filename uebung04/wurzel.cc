@@ -22,6 +22,10 @@ namespace power{
 
 double root_iterative(double q, int n, int steps){
     std::cout << "Starting root calculation..." << std::endl;
+    if(n==1){
+        std::cout << "Since n is 1, root will always be q." << std::endl;
+        return q; 
+    }
     std::cout << "a0: 1" << std::endl;
     double a = 1; 
     for(int i = 1; i < steps; i++){
@@ -75,6 +79,7 @@ int main(int argc, char** argv){
 
         std::cout << "Calculating the " << n << "th root of " << q << " in " << n << " steps:" << std::endl;
         std::cout << std::setprecision(30) << root_iterative(q, n, steps) << std::endl;
+        std::cout << "start test_root procedure" << std::endl;
         test_root(q,n,steps);
     }
 
