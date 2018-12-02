@@ -3,6 +3,20 @@
 # eine bestimmte Datei, z.B. ein Executable
 #statistics
 uebung01/login.txt
+uebung01/helloworld
+uebung01/test
+
+uebung02/errors
+uebung02/legalbutwrong
+
+uebung03/collatz
+uebung03/fibonacci
+uebung03/polynomial
+
+uebung04/power
+uebung04/wurzel
+uebung04/wurzel2
+
 # Sicherungskopien, die auf ~ enden
 *~
 # das Unterverzeichnis build/ (von CMake)
