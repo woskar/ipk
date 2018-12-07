@@ -17,6 +17,9 @@ uebung04/power
 uebung04/wurzel
 uebung04/wurzel2
 
+uebung05/number
+uebung05/vector
+
 # Sicherungskopien, die auf ~ enden
 *~
 # das Unterverzeichnis build/ (von CMake)
