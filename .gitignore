@@ -21,6 +21,7 @@ uebung05/number
 uebung05/vector
 
 uebung06/build
+uebung06/build2
 uebung06/test-build
 uebung06/release-build
 uebung06/normal
@@ -28,6 +29,9 @@ uebung06/uniform
 uebung06/readvector
 uebung06/A3/words
 uebung06/A3/letters
+
+uebung07/a1/test
+uebung07/a2/build/
 
 
 # Sicherungskopien, die auf ~ enden
