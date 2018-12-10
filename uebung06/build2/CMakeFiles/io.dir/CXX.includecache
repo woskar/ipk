@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Oskar/Code/ipk/uebung06/source/io.cc
+iostream
+-
+string
+-
+random
+-
+io.hh
+/Users/Oskar/Code/ipk/uebung06/source/io.hh
+
+/Users/Oskar/Code/ipk/uebung06/source/io.hh
+vector
+-
+

@@ -1,0 +1,10 @@
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/rebuild_cache.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/mediantest.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/edit_cache.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/meantest.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/uniform.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/test.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/normal.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/readvector.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/statistics.dir
+/Users/Oskar/Code/ipk/uebung06/build2/CMakeFiles/io.dir
